@@ -89,7 +89,7 @@ local function createEsp(player)
         distance = create("Text", {
             Color = Color3.new(1, 1, 1),
             Size = 12,
-            Font = Enum.Font.Monospace,
+            Font = Enum.Font.Gotham,
             Outline = true,
             Center = true
         }),
