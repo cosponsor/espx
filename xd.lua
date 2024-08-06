@@ -77,7 +77,8 @@ local function createEsp(player)
             Color = ESP_SETTINGS.NameColor,
             Outline = true,
             Center = true,
-            Size = 13
+            Size = 13,
+            Font = 3
         }),
         healthOutline = create("Line", {
             Thickness = 3,
